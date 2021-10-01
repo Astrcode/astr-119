@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np		#we use numpy for lots of things
 
 def main():
 	i = 0             	#integers can be delcared with a number
@@ -11,17 +11,12 @@ def main():
 	# we can use for loops to declare arrays quickly
 
 	for i in range(n):             #i in range [0,n-1]
-		y[1] = 2.0 * float(i) + 1. #set y = 2i+1 as floats
+		y[i] = 2.0 * float(i) + 1. #set y = 2i+1 as floats
 
 	# we can also simply iterate through a variable
 	for y_element in y:
 		print(y_element)
 
 #execute the main function
-if__name__ == "__main__":
+if __name__ == "__main__":
 	main()
-
-...
-
-Reminder: install pip and numpy in section later on
-...
