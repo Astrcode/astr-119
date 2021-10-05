@@ -33,6 +33,11 @@ print(x!=y)   #True if x doesn't equal y, False otherwise
 print(x>y)    #True if x is greater than y, False otherwise
 print(x<y)    #True if x less than y, False otherwise
 print(x>=y)   #True if x greater than or equal to y, False otherwise
+
+'''
+This code runs through basic math operations and prints out the corresponding results
+'''
+
 print(x<=y)   #True if x less than or equal to y, False otherwise
 
 #Works
