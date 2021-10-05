@@ -6,3 +6,7 @@ import os  							#gives access to operation system
 
 print(sys.argv) 	#command line arguments
 print(os.getcwd()) 	#prints the current working directory
+
+'''
+This code accesses the Numpy library and runs through the line arguments
+'''
