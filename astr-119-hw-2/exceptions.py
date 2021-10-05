@@ -1,4 +1,4 @@
-#python_exceptions let you deal with un expected results
+#python_exceptions let you deal with unexpected results
 
 
 try:
@@ -17,3 +17,7 @@ except:
 
 #this will break out program
 print(a)
+
+'''
+This code will look out for any function that isn't defined or locate any errors within the program
+'''
