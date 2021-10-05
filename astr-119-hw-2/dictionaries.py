@@ -23,5 +23,5 @@ for x in example_dict.keys():
 	print(x,example_dict[x])
 	
 '''
-This code define a dictionary data structure
+This code defines a dictionary data structure
 '''
