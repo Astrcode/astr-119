@@ -27,3 +27,7 @@ def main():
 #run the program
 if __name__ == "__main__":
 	main()
+
+'''
+This code defines a string based on a value k.
+'''
