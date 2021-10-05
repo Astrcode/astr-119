@@ -30,3 +30,6 @@ except TypeError:								#when we get a TyperError
 print(alpha_tuple)
 
 #Classes define functions but functions aren't classes
+'''
+This code creates classes which define functions
+'''
