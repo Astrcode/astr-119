@@ -39,3 +39,7 @@ print(y)
 #remove all elements
 y.clear()
 print(y)
+
+'''
+This code prints out an array and allows the user to remove or add in specific elements
+'''
