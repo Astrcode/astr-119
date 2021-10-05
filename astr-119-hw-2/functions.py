@@ -24,3 +24,7 @@ def main():
 #run the main function
 if __name__ == "__main__":
 	main()
+	
+'''
+This code prints out an interation of e^x up to n = 10 or whatever n we input to the command prompt
+'''
