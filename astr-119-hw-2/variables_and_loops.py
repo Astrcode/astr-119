@@ -22,5 +22,5 @@ if __name__ == "__main__":
 	main()
 
 '''
-This code iterates through a loop y_i=2i+1 and prints out the result sequentally until i reaches n-1
+This code iterates through a loop and prints out the result y_i=2i+1 sequentally until i reaches n-1
 '''
