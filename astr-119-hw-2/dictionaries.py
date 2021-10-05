@@ -5,7 +5,6 @@ example_dict = {
 	"class"			:	"Astr 119",
 	"prof"			:	"Brant",
 	"awesomeness"	:	10
-	"student"	:	"Cody"
 }
 print(type(example_dict))	#will say dict
 
