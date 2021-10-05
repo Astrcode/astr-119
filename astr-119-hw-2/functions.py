@@ -5,7 +5,7 @@ import sys
 def expo(x):
 	return np.exp(x)	#return the np e^x function
 
-#define a subriutinr that doesn't return a value
+#define a subroutine that doesn't return a value
 
 def show_expo(n):
  	for i in range(n):
