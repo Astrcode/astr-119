@@ -20,3 +20,7 @@ print(type(y)) #print out the type of y
 z = np.zeros(i,dtype=float)
 print(type(z)) #print type of array
 print(type(z[0])) #float
+
+'''
+This code prints out arrays from data types
+'''
