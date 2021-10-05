@@ -5,6 +5,6 @@ while (i<119):     #while i is less than 119, do the following
 	i += 10        #add 10 to i
 
 '''
-This code starts from i = 0 and adds 10 continuously until i=119 
+This code starts from i = 0 and adds 10 continuously until i = 119 
 (i=120 isn't printed out)
 '''
